@@ -3,7 +3,9 @@
 #1.Clone this repository
 
 #2.add .env file 
+
   a) add credentials related to database(in my case monoDB atlas cluster)
+  
   b) add Sendgrid api_key
   
  DATABASE_NAME
